@@ -1,1 +1,1 @@
-# Aspect-based-summarixzation-of-reviews
+# Aspect-based-summarization-of-reviews
